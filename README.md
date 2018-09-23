@@ -16,7 +16,7 @@ component that will change what it displays based on state.
 ![Unknown state](https://media.giphy.com/media/fFIaNdVhdvoOc/giphy.gif)
 
 While a React component can have initial state, the real power is in updating
-its state — after all, if we didn't need to update the state, the component
+its state — after all, if we did==n't need to update the state, the component
 shouldn't _have_ any state. State is only reserved for data that _changes_ in
 our component and is visible in the UI.
 
